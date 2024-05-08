@@ -147,3 +147,18 @@ Scikit-learn: This is an open-source library for Python. Most of the ML programs
 Microsoft Azure Machine Learning: This is a cloud-based environment that provides a variety of tools and services for building deploying, and managing machine learning models. This being on the cloud can be accessed from anywhere.
 IBM Watson: AI suite that can be used to build cognitive applications and used for a variety of tasks like natural language processing, image recognition, and speech recognition. This can be of immense help to the customer care department.
 
+Links and references:
+
+https://www.greatplacetowork.com/certified-company/1000127
+https://www.greatplacetowork.com/certified-company/1000127
+https://www.greatplacetowork.com/certified-company/1000127
+https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-intuit-intu-q2-earnings-revised
+https://www.intuit.com/
+https://www.klipfolio.com/resources/articles/what-are-business-metrics#:~:text=A%20business%20metric%20is%20a,long%2Dterm%20goals%20and%20objectives.
+https://www.intuit.com/#:~:text=Intuit's%20platform%20helps%20you%20achieve,Karma%2C%20QuickBooks%2C%20and%20Mailchimp
+https://www.geeksforgeeks.org/intuit-company-overview-history-products/
+https://www.intuit.com/company/origins/
+https://finance.yahoo.com/quote/INTU/
+https://www.netcials.com/financial-revenue-history-usa/896878-INTUIT-INC/#firstlist
+
+
