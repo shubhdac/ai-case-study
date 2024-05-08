@@ -149,15 +149,17 @@ The major threat that FinTech companies are facing is data security since they c
 ### Why are these technologies appropriate for your solution?
 
 TensorFlow: This open-source library for numerical computation can efficiently track customer information. It could also be used in tax and bookkeeping software for easy computation and analysis as it is associated with neural network image recognition.
-PyTorch: This open-source software for deep learning is very easy and flexible to use. It is a good choice for researchers and developers who want to quickly prototype with new deep learning models.
+
+PyTorch: This open-source software for deep learning is very easy and flexible to use. It is a good choice for researchers and developers who want to quickly prototype with new deep learning models. This might be helpful to determine the targeted customers.
+
 Scikit-learn: This is an open-source library for Python. Most of the ML programs require Python, so this provides a tool for data analysis. It is a good choice for general-purpose machine-learning tasks.
+
 Microsoft Azure Machine Learning: This is a cloud-based environment that provides a variety of tools and services for building deploying, and managing machine learning models. This being on the cloud can be accessed from anywhere.
-IBM Watson: AI suite that can be used to build cognitive applications and used for a variety of tasks like natural language processing, image recognition, and speech recognition. This can be of immense help to the customer care department.
+
+IBM Watson: AI suite that can be used to build cognitive applications and used for a variety of tasks like natural language processing, image recognition, and speech recognition. This can be of immense help to the customer care department. This could be helpful in security testing.
 
 ### Links and references:
 
-https://www.greatplacetowork.com/certified-company/1000127
-https://www.greatplacetowork.com/certified-company/1000127
 https://www.greatplacetowork.com/certified-company/1000127
 https://www.nasdaq.com/articles/heres-what-key-metrics-tell-us-about-intuit-intu-q2-earnings-revised
 https://www.intuit.com/
