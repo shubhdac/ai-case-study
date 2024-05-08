@@ -160,5 +160,9 @@ https://www.geeksforgeeks.org/intuit-company-overview-history-products/
 https://www.intuit.com/company/origins/
 https://finance.yahoo.com/quote/INTU/
 https://www.netcials.com/financial-revenue-history-usa/896878-INTUIT-INC/#firstlist
-
+https://www.gartner.com/reviews/market/tax-software/vendor/intuit
+https://turbotax.intuit.com/reviews/online/live/full-service/
+https://chatgpt.com/?oai-dm=1
+https://claude.ai/onboarding?returnTo=%2F%3F
+https://gemini.google.com/app
 
