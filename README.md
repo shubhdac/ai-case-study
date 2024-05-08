@@ -1,34 +1,50 @@
 # ai-case-study
-Homework module 1
+
+### Homework module 1
+
 Instructions Part 1: Choose a Company (or Project) in an AI Field That You Find Relevant or Interesting
 
 Case study
 
 # Powering prosperity around the world- Intuit Inc
 
-## Overview and Origin
+### Overview and Origin
+
 Intuit is a prominent American financial software company that specializes in financial, accounting, and tax preparation software for individuals and businesses. 
 
 Origin: Intuit was founded in 1983 by Scott Cook and Tom Proulx in Mountain View, California. The company's initial flagship product was Quicken, a personal finance software package. Quicken quickly gained popularity among individuals for its ease of use in managing personal finances, including budgeting, tracking expenses, and managing investments. Throughout its journey, Intuit has remained committed to its core values of customer-driven innovation, integrity, and diversity. The company prioritizes understanding its customers' needs and developing products that empower them to achieve financial success. Intuit's commitment to integrity and diversity is reflected in its corporate culture and initiatives aimed at fostering inclusivity and ethical business practices.
-* Name of company
+
+### Name of company
+
 Intuit Inc.
-* When was the company incorporated?
+
+### When was the company incorporated?
+
 1983, Palo Alto, CA
-* Who are the founders of the company?
+  
+### Who are the founders of the company?
+
 Scott D. Cook and Tom Prouix
-* How did the idea for the company (or project) come about?
+
+ ### How did the idea for the company (or project) come about?
+ 
 The idea for Intuit originated from Scott Cook's frustration with managing his finances. In the early 1980s, Cook, a former Procter & Gamble executive, and Harvard MBA graduate, found himself struggling to balance his checkbook. He realized that many people faced similar challenges in managing their finances efficiently. Inspired by his own experiences, Cook teamed up with programmer Tom Proulx to develop Quicken, the company's flagship product. Quicken was designed to provide users with a user-friendly interface and powerful features for managing their finances. It allowed users to track income and expenses, reconcile accounts, and generate reports, all from the convenience of their personal computers.
 Inspired by his own experiences, Cook teamed up with programmer Tom Proulx to develop Quicken, the company's flagship product. Quicken was designed to provide users with a user-friendly interface and powerful features for managing their finances. It allowed users to track income and expenses, reconcile accounts, and generate reports, all from the convenience of their personal computers. The founding philosophy of Intuit was rooted in the idea of solving real-world problems for its customers. Scott Cook emphasized the importance of understanding customers' needs and pain points, and he envisioned Intuit as a company dedicated to customer-driven innovation. This customer-centric approach guided the development of Intuit's products and services, shaping the company's culture and values from its inception.
-* How is the company funded? How much funding have they received?
+
+### How is the company funded? How much funding have they received?
+
 Intuit primarily generates revenue through the sale of its software products and services, including Quicken, QuickBooks, TurboTax, and various financial management solutions for individuals and businesses. Additionally, the company offers subscription-based models for its software, providing recurring revenue streams. Intuit's financial stability and strong revenue streams have allowed it to grow organically and invest in innovation, product development, and expansion into new markets. The company's ability to generate consistent cash flow and profitability has enabled it to finance its operations and strategic initiatives without significant reliance on external funding.
 Intuit is funded by 3 investors. Kleiner Perkins and Sierra Ventures are the most recent investors. Overall, Intuit and its competitors have raised over $3.65B in funding across 432 funding rounds involving 1144 investors.
-## Business Activities
+
+### Business Activities
+
 Intuit Inc: Overview offers TurboTax income tax preparation products and services for do-it-yourself (DIY) customers in the US and Canada. Intuit also offers tax preparation and filing offerings including Lacerte, ProFile, ProSeries, and ProConnect Tax Online to professional accountants in the US and Canada.
 Other than TurboTax, Intuit also has Quickbooks, mailchimp, and creditkarma. I was involved with the TurboTax Live program. 
 The other financial services Intuit provides are payroll, payment processing, and Point-of-Sale(POS systems). Other than the financial services, Intuit also provides training and certifications for better job and growth opportunities. In the recent past, Intuit leveraged data analytics and AI to provide personalized insights and recommendations to users, helping them make informed financial decisions and optimize their financial outcomes.
 Intuit offers mobile applications for its various products allowing users to access their financial information, manage transactions, and perform other tasks on the go.
 
-* What specific problem is the company or project trying to solve?
+### What specific problem is the company or project trying to solve?
+
 Intuit's AI strategy, which the company is very broad. To "revolutionize speed to benefit" the company wants to do a better job of "connecting people to experts," unlocking “smart decisions through more intelligent reporting and analysis,” and being "the center of small business growth" (which is a nod to its acquisition of the popular email marketing platform Mailchimp) and helping to "disrupt the small business market." The company will be doing this with AI.
 Intuit aims to address various financial management challenges faced by individuals, small businesses, and accountants. The specific problems the company seeks to solve include complex financial tasks, tax preparation and filing, administrative burdens, collaboration and efficiency, compliance, and risk management.
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
@@ -40,9 +56,11 @@ Intuit has built a strong brand and reputation over decades to provide reliable 
 Overall, the unfair advantage lies in its combination of brand reputation, network effect, extensive product portfolio, data analytics capabilities, customer-centric approach, regulatory compliance expertise, and strategic partnerships, enabling the company to maintain its leadership position in the financial software market.
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 Intuit employs a variety of technologies across its product portfolio and operations to enhance functionality, improve user experience, and drive innovation. Intuit uses a combination of machine learning, knowledge engineering, natural language processing, natural language understanding, and GenAI to deliver personalized experiences for customers across TurboTax, Credit Karma, QuickBooks, and Mailchimp.
-Some key technologies Intuit currently utilizes are cloud computing (AWS and GCP), AI and ML, Data analytics and Big Data, mobile technologies, API integrations, blockchain, voice recognition and NLP, and security technologies.
-## Landscape
-Intuit can be categorized as Fintech company and its landscape can be understood through several key dimensions that define its operations, products, and strategic focus:
+Intuit currently utilizes key technologies: cloud computing (AWS and GCP), AI and ML, Data analytics and Big Data, mobile technologies, API integrations, blockchain, voice recognition and NLP, and security technologies.
+
+### Landscape
+
+Intuit can be categorized as a Fintech company and its landscape can be understood through several key dimensions that define its operations, products, and strategic focus:
 Product portfolio- Quicken, QuickBooks, TurboTax, Mint, QuickBooks Online, ProConnect Tax Online
 Market segments: Individuals, small businesses, accounting professionals
 Technology integrations: Intuit leverages cloud computing, AI, ML, and data analytics to enhance its products and services.
@@ -56,11 +74,14 @@ Intuit operates primarily in the field of financial software and services. The c
 The FinTech sector is characterized by rapid innovation and continuous evolution, driven by advancements in technology, changing consumer behaviors, and regulatory developments. Some major trends and innovations shaping the FinTech landscape include digital payments and wallets, robo-advisors and wealthTech, regulatory technology, and compliance solutions. These trends in the FinTech sector continue to evolve and rapidly grow as technology advances and consumer expectations change. FinTech innovations are reshaping the way individuals and businesses interact with financial services and manage their finances.
 The company’s “live” services seamlessly blend digital services and human financial experts on a virtual expert platform. TurboTax Live filers want their taxes done fast, and right the first time by the best possible expert. With AI-driven expert matchmaking, Intuit can make real-time matching predictions in as little as 500 milliseconds during peak traffic. For the tax year 2021, the company saw a 1-hour reduction in customer serving time for TurboTax Live Full-Service experts on Intuit’s Virtual Expert Platform, when compared to the tax year 2020.
 
-* What are the other major companies in this field?
+### What are the other major companies in this field?
+
 The other companies in this field are H&R Block, Xero, Gusto, Sage Group, TaxAct, TaxSlayer, and Avalara.
+
 ## Results
 
-* What has been the business impact of this company so far?
+### What has been the business impact of this company so far?
+
 Slogan- Powering prosperity around the world. Focus on customer obsession to ensure the delivery of awesome products that drive amazing results. Intuit’s strategy is to be an AI-driven expert platform where we are solving the most pressing customer problems and delivering awesome experiences. Employee and customer support by getting their regular feedback. This is indicated by the increased growth in the past decade of the company because of good customer experience.
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Intuit utilizes a variety of metrics to measure success across its various business segments and initiatives. These metrics help the company track performance, evaluate the effectiveness of its strategies, and align with its goals and objectives. Some key metrics that Intuit may use to measure success. Some of the metrics involved are:
@@ -79,7 +100,8 @@ By monitoring these metrics, Intuit can assess its performance, identify areas f
 * How is your company performing relative to competitors in the same field?
 Intuit appears to be performing well compared to its competitors in a few key areas like revenue growth (Q4 2023) sits at 11.34% year-over-year) and profitability(net margin of 10.43%). Both these key areas are way higher than their competitors in the recent path.
 Intuit continues to have strong brand recognition, market leadership, and customer focus.
-## Recommendations
+
+### Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
 Promotional offer during off-peak period. 
