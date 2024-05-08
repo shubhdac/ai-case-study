@@ -138,7 +138,7 @@ Better incentives and promotions for employee retention
 
 ### Why do you think that offering this product or service would benefit the company?
 
-It will attract more customers (even though for a limited time) but it will reach a wider number of people and create a higher customer base.
+It will attract more customers (even though for a limited time) but it will reach a wider number of people and create a larger customer base.
 
 ### What technologies would this additional product or service utilize?
 
