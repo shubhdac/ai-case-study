@@ -4,11 +4,11 @@
 
 Instructions Part 1: Choose a Company (or Project) in an AI Field That You Find Relevant or Interesting
 
-Case study
+## _Case study_
 
 # Powering prosperity around the world- Intuit Inc
 
-### _Overview and Origin_
+## _Overview and Origin_
 
 Intuit is a prominent American financial software company that specializes in financial, accounting, and tax preparation software for individuals and businesses. 
 
@@ -36,7 +36,7 @@ Inspired by his own experiences, Cook teamed up with programmer Tom Proulx to de
 Intuit primarily generates revenue through the sale of its software products and services, including Quicken, QuickBooks, TurboTax, and various financial management solutions for individuals and businesses. Additionally, the company offers subscription-based models for its software, providing recurring revenue streams. Intuit's financial stability and strong revenue streams have allowed it to grow organically and invest in innovation, product development, and expansion into new markets. The company's ability to generate consistent cash flow and profitability has enabled it to finance its operations and strategic initiatives without significant reliance on external funding.
 Intuit is funded by 3 investors. Kleiner Perkins and Sierra Ventures are the most recent investors. Overall, Intuit and its competitors have raised over $3.65B in funding across 432 funding rounds involving 1144 investors.
 
-### _Business Activities_
+## _Business Activities_
 
 Intuit Inc: Overview offers TurboTax income tax preparation products and services for do-it-yourself (DIY) customers in the US and Canada. Intuit also offers tax preparation and filing offerings including Lacerte, ProFile, ProSeries, and ProConnect Tax Online to professional accountants in the US and Canada.
 Other than TurboTax, Intuit also has Quickbooks, mailchimp, and creditkarma. I was involved with the TurboTax Live program. 
@@ -61,7 +61,7 @@ Overall, the unfair advantage lies in its combination of brand reputation, netwo
 Intuit employs a variety of technologies across its product portfolio and operations to enhance functionality, improve user experience, and drive innovation. Intuit uses a combination of machine learning, knowledge engineering, natural language processing, natural language understanding, and GenAI to deliver personalized experiences for customers across TurboTax, Credit Karma, QuickBooks, and Mailchimp.
 Intuit currently utilizes key technologies: cloud computing (AWS and GCP), AI and ML, Data analytics and Big Data, mobile technologies, API integrations, blockchain, voice recognition and NLP, and security technologies.
 
-### _Landscape_
+## _Landscape_
 
 Intuit can be categorized as a Fintech company and its landscape can be understood through several key dimensions that define its operations, products, and strategic focus:
 Product portfolio- Quicken, QuickBooks, TurboTax, Mint, QuickBooks Online, ProConnect Tax Online
@@ -83,7 +83,7 @@ The company’s “live” services seamlessly blend digital services and human 
 
 The other companies in this field are H&R Block, Xero, Gusto, Sage Group, TaxAct, TaxSlayer, and Avalara.
 
-## _Results_
+### _Results_
 
 ### What has been the business impact of this company so far?
 
@@ -108,7 +108,7 @@ By monitoring these metrics, Intuit can assess its performance, identify areas f
 Intuit appears to be performing well compared to its competitors in a few key areas like revenue growth (Q4 2023) sits at 11.34% year-over-year) and profitability(net margin of 10.43%). Both these key areas are way higher than their competitors in the recent path.
 Intuit continues to have strong brand recognition, market leadership, and customer focus.
 
-## _Recommendations_
+### _Recommendations_
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
 Promotional offer during off-peak period. 
