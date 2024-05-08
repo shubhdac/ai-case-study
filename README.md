@@ -123,6 +123,15 @@ Intuit continues to have strong brand recognition, market leadership, and custom
 
 ### _Recommendations_
 
+Intuit, at its core, is a product-focused company. Intuit has always been known as a "house of brands". People may not necessarily know what Intuit is, but they will have at least used or heard of some of our products. TurboTax, mint, QuickBooks
+Staying technologically relevant:
+
+Intuit is an “old” company by Silicon Valley standards. Its stock price is growing, it’s still considered one of the most admired tech companies, and it’s been around for over 30 years. By staying technology relevant, Intuit can continue to keep up with fast[paced startups whilst attracting top talent.
+
+People first:
+
+Intuit puts its people first. It cares for its employees and that is reflected throughout the culture. Intuit has some of the kindest, smartest, and friendliest people that I've ever had the pleasure to work with. Of course you may run into some stragglers, but for the most part, everyone tries their best to help one another.
+
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
 Promotional offer during off-peak period. 
 Free file for a limited period to attract customers.
