@@ -107,17 +107,13 @@ Employee and customer support by getting their regular feedback. This is indicat
 
 ### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
-Intuit utilizes a variety of metrics to measure success across its various business segments and initiatives. These metrics help the company track performance, evaluate the effectiveness of its strategies, and align with its goals and objectives. Some key metrics that Intuit may use to measure success. Some of the metrics involved are:
-Revenue growth- Across its product lines and business segments quarterly and annually, and over the years
-Customer acquisition and retention
-User engagement and usage
-Financial health
-Employee satisfaction and retention
-Business growth as in revenue and expansion
-Product and service quality
-Market share and competitive position
-Innovation and product development
-Regulatory compliance and risk management
+Intuit utilizes a variety of metrics to measure success across its various business segments and initiatives. These metrics help the company track performance, evaluate the effectiveness of its strategies, and align with its goals and objectives. Some key metrics that Intuit may use to measure success. 
+
+Some of the metrics involved are:
+
+
+Revenue growth, Customer acquisition and retention, User engagement and usage, Financial health, Employee satisfaction and retention, Business growth as in revenue and expansion, Product and service quality, Market share and competitive position, Innovation and product development, Regulatory compliance and risk management.
+
 By monitoring these metrics, Intuit can assess its performance, identify areas for improvement, and make data-driven decisions to drive growth, innovation, and customer satisfaction across its business lines and initiatives.
 
 ### How is your company performing relative to competitors in the same field?
@@ -127,37 +123,38 @@ Intuit continues to have strong brand recognition, market leadership, and custom
 
 ### _Recommendations_
 
-Intuit, at its core, is a product-focused company. Intuit has always been known as a "house of brands". People may not necessarily know what Intuit is, but they will have at least used or heard of some of our products. TurboTax, mint, QuickBooks
-Staying technologically relevant:
+Intuit, at its core, is a product-focused company. Intuit has always been known as a "house of brands". People may not necessarily know what Intuit is, but they will have at least used or heard of some of our products. TurboTax, mint, QuickBooks.
 
-Intuit is an “old” company by Silicon Valley standards. Its stock price is growing, it’s still considered one of the most admired tech companies, and it’s been around for over 30 years. By staying technology relevant, Intuit can continue to keep up with fast-paced startups whilst attracting top talent.
+Staying technologically relevant- Intuit is an “old” company by Silicon Valley standards. Its stock price is growing, it’s still considered one of the most admired tech companies, and it’s been around for over 30 years. By staying technology relevant, Intuit can continue to keep up with fast-paced startups whilst attracting top talent.
 
 Intuit puts its people first. It cares for its employees and that is reflected throughout the culture. Intuit has some of the kindest, smartest, and friendliest people that I've ever had the pleasure to work with. Of course, you may run into some stragglers, but for the most part, everyone tries their best to help one another.
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
-Promotional offers during off-peak periods and free files for a limited period to attract customers.
-Discount for returning customers.
+
+In a general sense, I would like Intuit to come up with more promotional offers to attract more customers. For the existing customers, offer additional discounts to retain them.
 
 Assisting visually impaired customers in filing their taxes by using text-to-speech and speech-to-text as this will follow along the lines of inclusiveness with AI. Not everyone is fortunate enough to have the ability to type. Catering to all groups of people is just as important.
-Add the ability to upload images or pdf file, then use OCR with the LLM to better understand what the file contents are.
+
+Add the ability to upload images or PDF files, then use OCR with the LLM to better understand what the file contents are.
 
 ### Why do you think that offering this product or service would benefit the company?
 
-Intuit's spirit of Powering prosperity around the world slogan itself means being able included anyone and everyone. This creates a wider customer base following and inclusiveness and re, waching out to people to be more independent, whether they are visually impaired or technically challenged.
+Intuit's spirit of Powering prosperity around the world slogan itself means being able to include anyone and everyone. This creates a wider customer base following and inclusiveness and re, reaching out to people to be more independent, whether they are visually impaired or technically challenged.
 
 ### What technologies would this additional product or service utilize?
 
-These additional services would AI and ML to predict market growth efficiently.  
+Technologies that would use these additional services are  AI and ML to predict market growth efficiently.  
 The additional tools that can be utilized are TensorFlow, Pytorchis, Scikit-learn, Kerasis, Microsoft Azure machine learning, IBM Watson, Darktrace,  and the Google Cloud AI platform.
+
 The major threat that FinTech companies are facing is data security since they can access the customer’s personally identifiable information, so data security and compliance management would be a great help too.
 
 ### Why are these technologies appropriate for your solution?
 
 TensorFlow: This open-source library for numerical computation can efficiently track customer information. It could also be used in tax and bookkeeping software for easy computation and analysis as it is associated with neural network image recognition.
 
-PyTorch: This open-source software for deep learning is very easy and flexible to use. It is a good choice for researchers and developers who want to quickly prototype with new deep learning models. This might be helpful to determine the targeted customers.
+PyTorch: This open-source software for deep learning is very easy and flexible to use. It is a good choice for researchers and developers who want to quickly prototype with new deep learning models. This might help determine the targeted customers.
 
-Darktrace: Darktrace is an AI-powered cybersecurity platform that utilizes machine learning and AI algorithms to detect and respond to cyber threats in real time
+Darktrace: Darktrace is an AI-powered cybersecurity platform that utilizes machine learning and AI algorithms to detect and respond to cyber threats in real-time
 
 Scikit-learn: This is an open-source library for Python. Most of the ML programs require Python, so this provides a tool for data analysis. It is a good choice for general-purpose machine-learning tasks.
 
