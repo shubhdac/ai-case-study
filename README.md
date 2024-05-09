@@ -50,7 +50,7 @@ Intuit offers mobile applications for its various products allowing users to acc
 
 ### What specific problem is the company or project trying to solve?
 
-Intuit's AI strategy is to  "revolutionize speed to benefit". The company wants to do a better job of "connecting people to experts," unlocking “smart decisions through more intelligent reporting and analysis,” and being "the center of small business growth" (which is a nod to its acquisition of the popular email marketing platform Mailchimp) and helping to "disrupt the small business market." The company will be doing this with AI.
+Intuit's AI strategy is to  "revolutionize speed to benefit". The company wants to do a better job of "connecting people to experts," unlocking “smart decisions through more intelligent reporting and analysis,” and being "the center of small business growth" (which is a nod to its acquisition of the popular email marketing platform Mailchimp) and helping to "disrupt the small business market." The company intend to do this using AI.
 
 Intuit aims to address various financial management challenges faced by individuals, small businesses, and accountants. The specific problems the company seeks to solve include complex financial tasks, tax preparation and filing, administrative burdens, collaboration and efficiency, compliance, and risk management.
 Just like any other FinTech company, Intuit has to update its tools and management to ensure that the customer's data is protected.
@@ -60,7 +60,7 @@ Intuit's intended customers span various segments, including individuals, small 
 Taxpayers are the current and the intended customers. The market size is approximately 100 M.
 
 ### What solution does this company offer that its competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Intuit aids their DIY customers with live help (There are some new companies in the market like TaxAct). This makes the tax preparation and the filing process easy with a hand-holding approach wherein the customer feels safe to file their taxes under the guidance of a preparer who is credentialed and expert in the area.
+Intuit aids their DIY customers with live help. This makes the tax preparation and the filing process easy with a hand-holding approach wherein the customer feels safe to file their taxes under the guidance of a preparer who is credentialed and expert in the area.
 Intuit has built a strong brand and reputation over decades to provide reliable and user-friendly financial software solutions. Its products like QuickBooks and TurboTax are widely recognized and trusted by millions of users, giving Intuit a significant advantage over competitors. Intuit also benefits from the network effect, where the value of its products increases as more users adopt them. 
 
 As more individuals and businesses use Intuit software, the ecosystem becomes more valuable, leading to higher retention rates and barriers to entry for competitors. Intuit follows a customer-centric approach and prioritizes understanding its customers’ needs, thus driving its product development and innovation. Its compliance capabilities and adherence to regulatory standards give Intuit a competitive advantage in providing trustworthy and compliant financial solutions.
@@ -69,6 +69,8 @@ Overall, the unfair advantage lies in its combination of brand reputation, netwo
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash; you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 Intuit employs a variety of technologies across its product portfolio and operations to enhance functionality, improve user experience, and drive innovation. Intuit uses a combination of machine learning, knowledge engineering, natural language processing, natural language understanding, and GenAI to deliver personalized experiences for customers across TurboTax, Credit Karma, QuickBooks, and Mailchimp.
 Intuit currently utilizes key technologies like cloud computing (AWS and GCP), AI and ML, Data analytics and Big Data, mobile technologies, API integrations, blockchain, voice recognition and NLP, and security technologies.
+
+Intuit uses voice/video calls/chat for specific assistance and chatbots for general customer-care queries.
 
 ## _Landscape_
 
@@ -133,18 +135,19 @@ Intuit is an “old” company by Silicon Valley standards. Its stock price is g
 Intuit puts its people first. It cares for its employees and that is reflected throughout the culture. Intuit has some of the kindest, smartest, and friendliest people that I've ever had the pleasure to work with. Of course, you may run into some stragglers, but for the most part, everyone tries their best to help one another.
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
-Promotional offer during off-peak period. 
-Free file for a limited period to attract customers.
+Promotional offers during off-peak periods and free files for a limited period to attract customers.
 Discount for returning customers.
-Better incentives and promotions for employee retention
+
+Assisting visually impaired customers in filing their taxes by using text-to-speech and speech-to-text as this will follow along the lines of inclusiveness with AI. Not everyone is fortunate enough to have the ability to type. Catering to all groups of people is just as important.
+Add the ability to upload images or pdf file, then use OCR with the LLM to better understand what the file contents are.
 
 ### Why do you think that offering this product or service would benefit the company?
 
-It will attract more customers (even though for a limited time) but it will reach a wider number of people and create a larger customer base.
+Intuit's spirit of Powering prosperity around the world slogan itself means being able included anyone and everyone. This creates a wider customer base following and inclusiveness and re, waching out to people to be more independent, whether they are visually impaired or technically challenged.
 
 ### What technologies would this additional product or service utilize?
 
-AI and ML to predict market growth efficiently.  
+These additional services would AI and ML to predict market growth efficiently.  
 The additional tools that can be utilized are TensorFlow, Pytorchis, Scikit-learn, Kerasis, Microsoft Azure machine learning, IBM Watson, Darktrace,  and the Google Cloud AI platform.
 The major threat that FinTech companies are facing is data security since they can access the customer’s personally identifiable information, so data security and compliance management would be a great help too.
 
