@@ -139,7 +139,7 @@ Add the ability to upload images or PDF files, then use OCR with the LLM to bett
 
 ### Why do you think that offering this product or service would benefit the company?
 
-Intuit's spirit of Powering prosperity around the world slogan itself means being able to include anyone and everyone. This creates a wider customer base following and inclusiveness and re, reaching out to people to be more independent, whether they are visually impaired or technically challenged.
+Intuit's spirit of Powering prosperity around the world slogan itself means being able to include anyone and everyone. This creates a wider customer base by following an inclusiveness mantra. The software and technology want people to be more independent, even if they are visually impaired or technically challenged.
 
 ### What technologies would this additional product or service utilize?
 
