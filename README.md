@@ -53,6 +53,7 @@ Intuit offers mobile applications for its various products allowing users to acc
 Intuit's AI strategy is to  "revolutionize speed to benefit". The company wants to do a better job of "connecting people to experts," unlocking “smart decisions through more intelligent reporting and analysis,” and being "the center of small business growth" (which is a nod to its acquisition of the popular email marketing platform Mailchimp) and helping to "disrupt the small business market." The company will be doing this with AI.
 
 Intuit aims to address various financial management challenges faced by individuals, small businesses, and accountants. The specific problems the company seeks to solve include complex financial tasks, tax preparation and filing, administrative burdens, collaboration and efficiency, compliance, and risk management.
+Just like any other FinTech company, Intuit has to update its tools and management to ensure that the customer's data is protected.
 
 ### Who is the company's intended customer? Is there any information about the market size of this set of customers?
 Intuit's intended customers span various segments, including individuals, small businesses, self-employed professionals, accountants, and bookkeepers. These customers use products like Quicken and Mint to manage personal finances. Taxpayers use TurboTax to file and pay their Individual and business taxes. Intuit’s products are well-suited for freelancers, gig workers, and independent contractors who need to manage their finances, track income and expenses, and handle tax obligations. Accountants and bookkeepers can use Quickbooks online accountant, which is designed to streamline workflows, collaborate with clients, and manage multiple accounts efficiently. For the tax profession, Intuit offers professional tax preparation software like ProConnect that serves individual and business clients with complex tax needs. Overall, Intuit’s diverse product portfolio targets a wide range of customers with varying financial needs and objectives, aiming to empower individuals, small businesses, and financial professionals to manage their finances, taxes, and accounting processes effectively. 
@@ -99,7 +100,8 @@ The other companies in this field are H&R Block, Xero, Gusto, Sage Group, TaxAct
 
 ### What has been the business impact of this company so far?
 
-Intuit's slogan is- Powering prosperity around the world- which comes with a focus on customer obsession to ensure the delivery of awesome products that drive amazing results. Intuit’s strategy is to be an AI-driven expert platform where we are solving the most pressing customer problems and delivering awesome experiences. Employee and customer support by getting their regular feedback. This is indicated by the increased growth in the past decade of the company because of good customer experience.
+Intuit's slogan is- Powering prosperity around the world- which comes with a focus on customer obsession to ensure the delivery of awesome products that drive amazing results. Intuit’s strategy is to be an AI-driven expert platform where we are solving the most pressing customer problems and delivering awesome experiences. 
+Employee and customer support by getting their regular feedback. This is indicated by the increased growth in the past decade of the company because of good customer experience. 
 
 ### What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 
@@ -143,7 +145,7 @@ It will attract more customers (even though for a limited time) but it will reac
 ### What technologies would this additional product or service utilize?
 
 AI and ML to predict market growth efficiently.  
-The additional tools that can be utilized are TensorFlow, Pytorchis, Scikit-learn, Kerasis, Microsoft Azure machine learning, IBM Watson, and the Google Cloud AI platform.
+The additional tools that can be utilized are TensorFlow, Pytorchis, Scikit-learn, Kerasis, Microsoft Azure machine learning, IBM Watson, Darktrace,  and the Google Cloud AI platform.
 The major threat that FinTech companies are facing is data security since they can access the customer’s personally identifiable information, so data security and compliance management would be a great help too.
 
 ### Why are these technologies appropriate for your solution?
@@ -151,6 +153,8 @@ The major threat that FinTech companies are facing is data security since they c
 TensorFlow: This open-source library for numerical computation can efficiently track customer information. It could also be used in tax and bookkeeping software for easy computation and analysis as it is associated with neural network image recognition.
 
 PyTorch: This open-source software for deep learning is very easy and flexible to use. It is a good choice for researchers and developers who want to quickly prototype with new deep learning models. This might be helpful to determine the targeted customers.
+
+Darktrace: Darktrace is an AI-powered cybersecurity platform that utilizes machine learning and AI algorithms to detect and respond to cyber threats in real time
 
 Scikit-learn: This is an open-source library for Python. Most of the ML programs require Python, so this provides a tool for data analysis. It is a good choice for general-purpose machine-learning tasks.
 
